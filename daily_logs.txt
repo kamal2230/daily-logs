@@ -11,3 +11,16 @@ Deployed CustomNER
 --------------------------------------------------
 Day # 3 / 99  - July 16, 2020 - Thursday
 --------------------------------------------------
+
+Collecting data for AllenNLP and making audio note in Tech-A-Break team.
+--------------------------------------------------
+Day # 4 / 99  - July 17, 2020 - Friday
+--------------------------------------------------
+
+Deployed AllenNLP 
+--------------------------------------------------
+Day # 5 / 99  - July 18, 2020 - Saturday
+--------------------------------------------------
+
+Collecting data for Bert and AWS ML for making audio note in Tech-A-Break team.
+
