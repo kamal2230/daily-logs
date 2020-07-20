@@ -23,4 +23,13 @@ Day # 5 / 99  - July 18, 2020 - Saturday
 --------------------------------------------------
 
 Collecting data for Bert and AWS ML for making audio note in Tech-A-Break team.
+--------------------------------------------------
+Day # 6 / 99  - July 19, 2020 - Sunday
+--------------------------------------------------
+Preparing data for Bert model and collecting data for Trifacta & Bert for Tech-A-Break team.
 
+--------------------------------------------------
+Day # 7 / 99  - July 20, 2020 - Monday
+--------------------------------------------------
+
+Given bert model demo
